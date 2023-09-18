@@ -83,9 +83,6 @@ $ npm run dev
 # O servidor inciará na porta:3000 - acesse http://localhost:3000
 
 ```
-<p align="center">
-  <a href="https://github.com/JeanNewb/async-pokemon.git" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
 
 #### Utilizando o Insomnia para Acessar as Funcionalidades
 #### Consultar Pokemon
